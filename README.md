@@ -10,8 +10,6 @@ https://flutter.a-2-z.site/2021/10/add-favorite-button-to-list-by-provider.html
 # Video tutorial 
 https://youtu.be/VERvKBWJZiE
 
-# if you want source code 
-please subscribe in my channel and send me the link of video to my Email: brhomapps@gmail.com
 
 # Our site 
 https://flutter.a-2-z.site/
